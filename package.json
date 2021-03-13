@@ -25,6 +25,6 @@
     "swr": "0.5.2"
   },
   "devDependencies": {
-    "eslint-config-get-off-my-lawn": "5.0.1"
+    "eslint-config-get-off-my-lawn": "6.0.0"
   }
 }
